@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://wallpapers.com/images/featured/aiagxkxssli3r0ny.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+#main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #title {
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  #img-div {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+  }
+  
+  #tribute-info {
+    text-align: justify;
+    margin-bottom: 50px;
+    color: aliceblue;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+  }
